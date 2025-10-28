@@ -1,7 +1,7 @@
 # 🚀 Scala Learning Journey
 
 Welcome to my **Scala Learning Journey Repository** — a collection of everything I’m learning about Scala, day by day.  
-This repository supports my **#LearningInPublic** challenge on [LinkedIn](https://www.linkedin.com/in/arshadali) where I post daily insights about Scala, its concepts, and real-world applications.
+This repository supports my **#LearningInPublic** challenge on [LinkedIn](https://linkedin.com/in/arshad-ali-490079309) where I post daily insights about Scala, its concepts, and real-world applications.
 
 ---
 
