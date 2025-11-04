@@ -32,6 +32,7 @@ Multiplications: List(2, 8, 18)
 
 <details>
 <summary><strong>Click to see solution</strong></summary>
+
 ```scala
 object HigherOrderCalculator {
   def main(args: Array[String]): Unit = {
@@ -113,6 +114,7 @@ Current balance: 500.0
 
 <details>
 <summary><strong>Click to see solution</strong></summary>
+
 ```scala
 object ClosureBankingSystem {
   def main(args: Array[String]): Unit = {
@@ -237,6 +239,7 @@ All done!
 
 <details>
 <summary><strong>Click to see solution</strong></summary>
+
 ```scala
 object LazyLoggingSystem {
   def main(args: Array[String]): Unit = {
@@ -349,6 +352,7 @@ Delimiters:
 
 <details>
 <summary><strong>Click to see solution</strong></summary>
+
 ```scala
 object CurryingFormatters {
   def main(args: Array[String]): Unit = {
@@ -461,6 +465,7 @@ Final result: 400
 
 <details>
 <summary><strong>Click to see solution</strong></summary>
+
 ```scala
 object PipelineBuilder {
   def main(args: Array[String]): Unit = {
